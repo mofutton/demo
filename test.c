@@ -1,6 +1,6 @@
 #include <stdio.h>
 int main(void){
-    printf("Hello, world!");
-    return;
+  printf("Hello, world!");
+  return;
 }
 //EOF-------------------
